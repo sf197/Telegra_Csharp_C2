@@ -9,7 +9,7 @@ Twitter:  @wh4am1
 
 Team:  QQ愛&Love
 
-![logo](.\images\logo.png)
+![logo](https://github.com/sf197/Telegra_Csharp_C2/tree/master/images/logo.png)
 
 # install
 ###### Nuget download these package
@@ -46,7 +46,7 @@ System.Windows.Forms;
 }
 ```
 
-![1566355269804](.\images\1.png)
+![1566355269804](https://github.com/sf197/Telegra_Csharp_C2/tree/master/images/1.png)
 
 ###### have good fun.
 
