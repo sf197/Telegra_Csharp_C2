@@ -11,7 +11,14 @@ Team:  QQ愛&Love
 
 ![logo](https://github.com/sf197/Telegra_Csharp_C2/blob/master/images/logo.png)
 
-# install
+# All view
+
+- [Install](#Install)
+- [How to used](#How to used)
+- [Proxy](#Proxy)
+
+# Install
+
 ###### Nuget download these package
 
 ```Csharp
