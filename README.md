@@ -14,7 +14,7 @@ Team:  QQ愛&Love
 # All view
 
 - [Install](#Install)
-- [How to used](#How to used)
+- [How to used](#how-to-used)
 - [Proxy](#Proxy)
 
 # Install
