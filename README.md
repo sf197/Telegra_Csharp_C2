@@ -15,6 +15,8 @@ Team:  QQ愛&Love
 ###### Don't pass it on to Virus Total anymore. I've tried it for you.
 ![VirusTotal](https://github.com/sf197/Telegra_Csharp_C2/blob/master/images/2.png)
 
+link:https://www.virustotal.com/gui/file/9bdbb8628a19e1f036736ab74a1c19462dfd93cf901e9b0bf8e4c93ddc1914b2/detection
+
 # All view
 
 - [Install](#Install)
