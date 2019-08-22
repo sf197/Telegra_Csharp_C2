@@ -11,6 +11,10 @@ Team:  QQ愛&Love
 
 ![logo](https://github.com/sf197/Telegra_Csharp_C2/blob/master/images/logo.png)
 
+# VirusTotal check result
+###### Don't pass it on to Virus Total anymore. I've tried it for you.
+![VirusTotal](https://github.com/sf197/Telegra_Csharp_C2/blob/master/images/2.png)
+
 # All view
 
 - [Install](#Install)
